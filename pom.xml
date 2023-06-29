@@ -8,13 +8,13 @@
 	<version>1.0</version>
 	
 	<name>Maven Web Application</name>
-	<url>http://mithuntechnologies.com</url>
+	<url>http://mithuntechnologies2.com</url>
 	
 	<description>Maven Web Project</description>
 
 	<organization>
 		<name>Mithun Technologies</name>
-		<url>http://mithuntechnologies.com/</url>
+		<url>http://mithuntechnologies2.com/</url>
 	</organization>
 
 	<properties>
